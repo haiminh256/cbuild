@@ -1,0 +1,8 @@
+{
+  "project": "my_app",
+  "compiler": "g++",
+  "flags": ["-std=c++20", "-Wall", "-O2"],
+  "include_dirs": ["src/"],
+  "src": ["src/cbuild.cpp"]	,
+  "output": "cbuild"
+}
