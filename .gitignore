@@ -1,3 +1,4 @@
 /cbuild_cache/
-/.ccls_cache/
+/.ccls-cache/
+
 *.exe
